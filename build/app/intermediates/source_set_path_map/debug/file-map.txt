@@ -1,0 +1,12 @@
+com.example.uts_mobile_dela.app-jetified-window-1.0.0-beta04-0 C:\Users\DELA FARAHITA ZEIN\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.uts_mobile_dela.app-jetified-annotation-experimental-1.1.0-1 C:\Users\DELA FARAHITA ZEIN\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.uts_mobile_dela.app-core-1.6.0-2 C:\Users\DELA FARAHITA ZEIN\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.uts_mobile_dela.app-jetified-window-java-1.0.0-beta04-3 C:\Users\DELA FARAHITA ZEIN\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.uts_mobile_dela.app-debug-4 D:\S5\Pemrograman Mobile\uts_mobile_dela\android\app\src\debug\res
+com.example.uts_mobile_dela.app-main-5 D:\S5\Pemrograman Mobile\uts_mobile_dela\android\app\src\main\res
+com.example.uts_mobile_dela.app-pngs-6 D:\S5\Pemrograman Mobile\uts_mobile_dela\build\app\generated\res\pngs\debug
+com.example.uts_mobile_dela.app-resValues-7 D:\S5\Pemrograman Mobile\uts_mobile_dela\build\app\generated\res\resValues\debug
+com.example.uts_mobile_dela.app-rs-8 D:\S5\Pemrograman Mobile\uts_mobile_dela\build\app\generated\res\rs\debug
+com.example.uts_mobile_dela.app-mergeDebugResources-9 D:\S5\Pemrograman Mobile\uts_mobile_dela\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.uts_mobile_dela.app-mergeDebugResources-10 D:\S5\Pemrograman Mobile\uts_mobile_dela\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.uts_mobile_dela.app-merged_res-11 D:\S5\Pemrograman Mobile\uts_mobile_dela\build\app\intermediates\merged_res\debug
