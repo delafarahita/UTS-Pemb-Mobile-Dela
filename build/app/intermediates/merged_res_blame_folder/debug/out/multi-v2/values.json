@@ -4,7 +4,7 @@
             "outputFile": "com.example.uts_mobile_dela.app-mergeDebugResources-9:/values/values.xml",
             "map": [
                 {
-                    "source": "D:\\S5\\Pemrograman Mobile\\uts_mobile_dela\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\S5\\File Pemrograman Mobile\\Mobile-Dela\\uts_mobile_dela\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
