@@ -5,3 +5,6 @@
 ## Kelas: D4-TI / 3B
 
 <video controls src="images/VID_20241024033603.mp4" title="Title"></video>
+
+Link Screen Recording Pada Smarthphone di Google Drive:
+https://drive.google.com/drive/folders/1anRknxWk8pL1WNq8zkRtZ18kO68sSa6V?usp=sharing
